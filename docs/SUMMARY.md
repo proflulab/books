@@ -1,6 +1,7 @@
 # Table of contents
 
-* [介绍](README.md)
+* [缘起](README.md)
+* [陆向谦实验室](lu-xiang-qian-shi-yan-shi.md)
 * [教育理论](jiao-yu-li-lun/README.md)
   * [天时地利人和](jiao-yu-li-lun/tian-shi-di-li-ren-he.md)
     * [10 over 10](jiao-yu-li-lun/tian-shi-di-li-ren-he/10-over-10.md)
@@ -34,11 +35,12 @@
   * [无锡尚德施正荣：科技创业+资本运营](da-ka-an-li/wu-xi-shang-de-shi-zheng-rong-ke-ji-chuang-ye-+-zi-ben-yun-ying.md)
   * [学而思曹允东：不怕钱多，不怕上市合规难](da-ka-an-li/xue-er-si-cao-yun-dong-bu-pa-qian-duo-bu-pa-shang-shi-he-gui-nan.md)
   * [展讯通信陈大同：反击做空有绝招](da-ka-an-li/zhan-xun-tong-xin-chen-da-tong-fan-ji-zuo-kong-you-jue-zhao.md)
-* [精彩连麦](jing-cai-lian-mai.md)
 * [家庭案例](jia-chang-an-li/README.md)
   * [杨仕明/杨俊杰](jia-chang-an-li/page-1.md)
     * [我如何引导孩子加入计算机语言世界](jia-chang-an-li/page-1/wo-ru-he-yin-dao-hai-zi-jia-ru-ji-suan-ji-yu-yan-shi-jie.md)
     * [国内五线城市英语熏陶实践探索](jia-chang-an-li/page-1/guo-nei-wu-xian-cheng-shi-ying-yu-xun-tao-shi-jian-tan-suo.md)
+* [精彩连麦](jing-cai-lian-mai/README.md)
+  * [老喻对话陆向谦：厉害的人都在用“项目式学习”教孩子](jing-cai-lian-mai/lao-yu-dui-hua-lu-xiang-qian-li-hai-de-ren-du-zai-yong-xiang-mu-shi-xue-xi-jiao-hai-zi.md)
 * [功勋案例](gong-xun-xue-yuan.md)
   * [张鹤](gong-xun-xue-yuan/zhang-he.md)
   * [张旗](jia-chang-an-li/page-2.md)
