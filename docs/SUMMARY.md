@@ -1,6 +1,13 @@
 # Table of contents
 
 * [介绍](README.md)
+* [教育理论](jiao-yu-li-lun/README.md)
+  * [天时地利人和](jiao-yu-li-lun/tian-shi-di-li-ren-he.md)
+  * [人才成长周期](jiao-yu-li-lun/ren-cai-cheng-chang-zhou-qi.md)
+  * [诚意，正信，修身，齐家，创业，平天下](jiao-yu-li-lun/cheng-yi-zheng-xin-xiu-shen-qi-jia-chuang-ye-ping-tian-xia.md)
+  * [非常规自我实现](jiao-yu-li-lun/fei-chang-gui-zi-wo-shi-xian.md)
+  * [21世纪创新公司的共性](jiao-yu-li-lun/21-shi-ji-chuang-xin-gong-si-de-gong-xing.md)
+  * [颠覆式创新](jiao-yu-li-lun/dian-fu-shi-chuang-xin.md)
 * [大咖案例](da-ka-an-li/README.md)
   * [探路者盛发强和王静：探路创业板成功上市之道](da-ka-an-li/tan-lu-zhe-sheng-fa-qiang-he-wang-jing-tan-lu-chuang-ye-ban-cheng-gong-shang-shi-zhi-dao.md)
   * [爱尔眼科陈邦：资本运营超对手](da-ka-an-li/ai-er-yan-ke-chen-bang-zi-ben-yun-ying-chao-dui-shou.md)
@@ -12,11 +19,8 @@
   * [新浪王志东：新浪模式有风险，不做风险会更大](da-ka-an-li/xin-lang-wang-zhi-dong-xin-lang-mo-shi-you-feng-xian-bu-zuo-feng-xian-hui-geng-da.md)
   * [用友软件王文京：上市融资助力公司业务华丽转型](da-ka-an-li/yong-you-ruan-jian-wang-wen-jing-shang-shi-rong-zi-zhu-li-gong-si-ye-wu-hua-li-zhuan-xing-1.md)
   * [中国动向陈义红：品牌奇才的对赌体验](da-ka-an-li/zhong-guo-dong-xiang-chen-yi-hong-pin-pai-qi-cai-de-dui-du-ti-yan.md)
-* [家长案例](jia-chang-an-li/README.md)
+* [家庭案例](jia-chang-an-li/README.md)
   * [Page 1](jia-chang-an-li/page-1.md)
   * [Page 2](jia-chang-an-li/page-2.md)
 * [功勋学员](gong-xun-xue-yuan.md)
-
-## Group 1
-
-* [test](group-1/test.md)
+* [参考案例](can-kao-an-li.md)
